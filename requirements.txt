@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+chromadb
+sentence-transformers
+pyttsx3
